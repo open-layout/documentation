@@ -9,8 +9,9 @@ import styles from './index.module.css';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
+
   return (
-    <header className={clsx('hero', styles.heroBanner)}  style={{backgroundColor: '#6633eff5'}}>
+    <header className={clsx('hero', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
@@ -35,9 +36,9 @@ export default function Home() {
       title={`Welcome to ${siteConfig.title}`}
       description="Find the perfect layout for your next project">
       <HomepageHeader />
-      <main>
+      {/* <main>
         <HomepageFeatures />
-      </main>
+      </main> */}
     </Layout>
   );
 }
