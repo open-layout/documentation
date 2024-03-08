@@ -12,7 +12,7 @@ function HomepageHeader() {
 
   return (
     <header className={clsx('hero', styles.heroBanner)}>
-      <div className="container">
+      <div className="">
         <Heading as="h1" className="hero__title">
           {siteConfig.title}
         </Heading>
@@ -35,10 +35,10 @@ export default function Home() {
     <Layout
       title={`Welcome to ${siteConfig.title}`}
       description="Find the perfect layout for your next project">
-      <HomepageHeader />
-      {/* <main>
-        <HomepageFeatures />
-      </main> */}
+      <main className={clsx('hero', styles.mainContent)}>
+        <HomepageHeader />
+        {/* <HomepageFeatures /> */}
+      </main>
     </Layout>
   );
 }

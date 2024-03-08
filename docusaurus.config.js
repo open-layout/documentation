@@ -65,7 +65,8 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/openlayout-social-card.png',
+      defaultMode: 'dark',
       announcementBar: {
         isCloseable: true, // Set this to true if you want to hide the announcement bar.
         backgroundColor: '#6633ef', // Defaults to `#fff`.

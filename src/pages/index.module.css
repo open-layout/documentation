@@ -4,13 +4,20 @@
  */
 
 .heroBanner {
-  /* padding: 4rem 0; */
-  padding: 15%;
+  margin: 0;
+  
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 
   text-align: center;
-  position: relative;
-  overflow: hidden;
+  background: none;
+}
 
+.mainContent {
+  height: 73vh;
+  width: 100%;
   background: radial-gradient(125% 125% at 50% 10%, var(--custom-cur-color) 40%, #63e 100%);
 }
 
@@ -25,7 +32,6 @@
   align-items: center;
   justify-content: center;
 }
-
 
 .button-color {
   background-color: #6633ef;
