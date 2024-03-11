@@ -3,7 +3,7 @@ sidebar_position: 1
 title: Introduction
 ---
 
-![Open Layout](https://openlayout.me/open-banner.png)
+![Open Layout](./img/open-banner.png)
 
 # Open Layout
 
