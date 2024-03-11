@@ -63,12 +63,6 @@ The "Download" button allows you to download the project via CLI.
 
 ---
 
-### Readme 📄
-
-The "Readme" button takes you to the project's README file, where you can find important information on getting started, contributing, etc.
-
----
-
 ### Docs 📚
 
 The "Docs" button directs you to the project's documentation, which provides details on how to use it, code examples, API, etc.
