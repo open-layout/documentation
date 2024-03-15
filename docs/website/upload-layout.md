@@ -11,7 +11,7 @@ Once logged in, you will see the dashboard and your public repositories, along w
 
 ## Form
 
-## Required Form
+### Required Form
 - **Name**: Your repository name will be automatically placed here, but you can change it so others can view it with a different name.
 - **Description**: You will need to provide a description for your template.
 - **Version**: You will need to specify the version of your layout. (e.g., 1.5)
@@ -20,7 +20,7 @@ Once logged in, you will see the dashboard and your public repositories, along w
 - **Language**:  Here you will specify the language in which it was created.
 - **Prog Language**:  Select the most important programming language used in your repository.
 
-## Formulario Importante
+### Formulario Importante
 - **Color Picker**: You can input your color palette
 - **Node Version**: Specify the version of Node to make it easier for users to use.
 - **Image Url**: You can add images to make the layout more attractive to other users.
@@ -28,7 +28,7 @@ Once logged in, you will see the dashboard and your public repositories, along w
 - **Collaborator**: You can add the usernames of collaborators who have contributed to your project.
 - **IDE**: Specify the IDE you used to facilitate its use.
 
-## Socials & Links
+### Socials & Links
 - **Preview**: You can input the link to your template's website if it's hosted.
 - **Readme**: The link to your readme for people to read.
 - **Tutorial**: You can provide the link to a video tutorial for people to better understand your template.
