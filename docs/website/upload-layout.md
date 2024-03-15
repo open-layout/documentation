@@ -9,7 +9,7 @@ Here you can see a simple way to upload templates so that everyone can view them
 
 Once logged in, you will see the dashboard and your public repositories, along with an additional button to publish the templates. A form with an accordion will open for you.
 
-### Form
+## Form
 
 ## Required Form
 - **Name**: Your repository name will be automatically placed here, but you can change it so others can view it with a different name.
