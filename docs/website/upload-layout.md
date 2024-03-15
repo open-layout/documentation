@@ -20,7 +20,7 @@ Once logged in, you will see the dashboard and your public repositories, along w
 - **Language**:  Here you will specify the language in which it was created.
 - **Prog Language**:  Select the most important programming language used in your repository.
 
-### Formulario Importante
+### Importan Form
 - **Color Picker**: You can input your color palette
 - **Node Version**: Specify the version of Node to make it easier for users to use.
 - **Image Url**: You can add images to make the layout more attractive to other users.
