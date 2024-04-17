@@ -5,8 +5,8 @@ authors: [azaldevx, anglesad, imxnoobx]
 tags: [welcome, open-layout, docs]
 ---
 
-![Open Layout](https://openlayout.me/open-banner.png)
+![Open Layout](../../static/img/openlayout-social-card.png)
 
 # Open Layout
 
-Open Layout is a simple, open-source, and easy-to-use layout system for web development. It is designed to be a flexible and lightweight solution for creating responsive and adaptive layouts for web applications.
+**Open layout** is a *team-work* project, brought to life, with the goal of making easier the usage of *layouts/templates* by making an online portal where finding inspiration, resources and tools is as easy as you can imagine.

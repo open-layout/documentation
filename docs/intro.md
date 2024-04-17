@@ -7,7 +7,7 @@ title: Introduction
 
 # Open Layout
 
-Open Layout is a simple, open-source, and easy-to-use layout system for web development. It is designed to be a **flexible** and **lightweight** solution for creating **responsive** and **adaptive** layouts for web applications with **little effort** and with the **best developer experience**.
+Open Layout is a simple, open-source, and easy-to-use layout system. It is designed to be a **flexible** and **lightweight** solution for creating **responsive** and **adaptive** layouts for any tipe applications with **little effort** and with the **best developer experience**. It relies in community developed tools and desings to bring this project to its full extent. 
 
 ## Getting Started
 
@@ -19,6 +19,10 @@ Once you have found the layout you want to use, you can:
 * Open the layout's source code in code.dev online web editor
 * Quick install the layout using out CLI tool `open-layout`
 
-:::warning
+:::success
+More information about how to use our cli tool [**here**](./npm-package/get-started.md)
+:::
 
-Finish this welcome page
+:::warning
+This documentation is under construction. If you have any suggestions or want to contribute, please visit our *GitHub Repository*
+

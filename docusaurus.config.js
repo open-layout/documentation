@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import {themes as prismThemes, themes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -66,7 +66,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/openlayout-social-card.png',
-      defaultMode: 'dark',
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       announcementBar: {
         isCloseable: true, // Set this to true if you want to hide the announcement bar.
         backgroundColor: '#6633ef', // Defaults to `#fff`.
