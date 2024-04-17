@@ -37,3 +37,7 @@ Lets click the first option `Explore Layouts` and see what happens.
 ![npm-explore](./img/npm-explore.png)
 
 Some results will appear, you can navigate through them and press enter to see the details of the layout.
+
+:::info
+Press next for more information below
+:::
